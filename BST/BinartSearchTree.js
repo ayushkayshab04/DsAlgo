@@ -56,13 +56,13 @@ class BinarySearchTree {
     }
     let currentNode = this.root;
     let parentNode = null;
-    while(currentNode){
-        if(value<currentNode.value){
+    // while(currentNode){
+    //     if(value<currentNode.value){
 
-        }else if(){
+    //     }else if(){
 
-        }
-    }
+    //     }
+    // }
   }
 }
 
